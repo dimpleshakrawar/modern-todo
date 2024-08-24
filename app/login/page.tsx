@@ -1,8 +1,8 @@
-import LoginBgImage from "../assets/loginPage.svg"
-
 const Login = () => {
-    return (
-        <div background-image={LoginBgImage}>Login</div>
-    )
-}
-export default Login
+     return (
+          <div className="">
+               <div className=""></div>
+          </div>
+     );
+};
+export default Login;
