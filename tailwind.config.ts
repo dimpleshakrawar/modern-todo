@@ -7,7 +7,13 @@ const config: Config = {
           './app/**/*.{js,ts,jsx,tsx,mdx}'
      ],
      theme: {
-          extend: {}
+          colors: {
+               primaryLightBg: '#ebebeb',
+               // primaryDarkBg: '#D4C7B6 '
+               primaryDarkBg: '#e5d1b7 ',
+               primaryHover: '#896d4d',
+               secondaryHover: '#e5d1b7'
+          }
      },
      plugins: []
 };

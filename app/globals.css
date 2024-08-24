@@ -17,6 +17,7 @@
 } */
 
 body {
+     background-color: #efefee;
      /* color: rgb(var(--foreground-rgb)); */
      height: 100vh;
      /* background: linear-gradient(
